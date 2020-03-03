@@ -29,7 +29,10 @@
 
 # Software
 - Devhints (https://devhints.io/)
-- Quasar Framework (https://quasar.dev/)
+- JPA (https://docs.spring.io/spring-data/jpa/docs/current/reference/html/)
+- Quasar Framework
+  - https://quasar.dev/
+  - https://quasar.dev/vue-components
 - Spring Boot
   - https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/
   - https://spring.io/guides
