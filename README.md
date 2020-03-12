@@ -9,11 +9,12 @@
 - Joel on Software (https://www.joelonsoftware.com/)
 - Krebs on Security (https://krebsonsecurity.com/)
 
-# Software Concepts
+# Concepts
 - Software design patterns (https://en.wikipedia.org/wiki/Software_design_pattern)
 - git flow (https://nvie.com/posts/a-successful-git-branching-model/)
 - Principle of least astonishment (https://en.wikipedia.org/wiki/Principle_of_least_astonishment)
 - Kerckhoff's Principle (https://en.wikipedia.org/wiki/Kerckhoffs%27s_principle)
+- TOCTOU (https://en.wikipedia.org/wiki/Time_of_check_to_time_of_use)
 
 # Tools
 - curl
@@ -48,6 +49,8 @@ https://stackexchange.com/sites
 - TCP/IP model (https://en.wikipedia.org/wiki/Internet_Protocol_Suite)
 - TCP, UDP ports (https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
 - TLS (https://en.wikipedia.org/wiki/Transport_Layer_Security)
+- HTTP (https://developer.mozilla.org/en-US/docs/Web/HTTP)
+- Let's Encrypt (https://letsencrypt.org/docs/)
 
 # Security
 - OWASP Top 10 (https://owasp.org/www-project-top-ten/)
