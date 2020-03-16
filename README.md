@@ -15,7 +15,10 @@
 - Principle of least astonishment (https://en.wikipedia.org/wiki/Principle_of_least_astonishment)
 - Kerckhoff's Principle (https://en.wikipedia.org/wiki/Kerckhoffs%27s_principle)
 - TOCTOU (https://en.wikipedia.org/wiki/Time_of_check_to_time_of_use)
-- API design (https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/)
+- API design
+  - https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/
+  - https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design
+  - https://swagger.io/blog/api-design/api-design-best-practices/
 
 # Tools
 - curl
