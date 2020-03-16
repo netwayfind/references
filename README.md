@@ -22,6 +22,7 @@
 - git
   - https://try.github.io/
   - https://git-scm.com/book/en/v2
+  - https://help.github.com/en/github/using-git/configuring-git-to-handle-line-endings
 - maven
   - https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
   - https://maven.apache.org/guides/
