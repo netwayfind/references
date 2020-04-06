@@ -1,0 +1,200 @@
+[
+    {
+        "name": "references",
+        "urls": ["https://github.com/netwayfind/references"],
+        "tags": ["Software", "Security"]
+    },
+    {
+        "name": "The Art of War by Sun Tzu",
+        "urls": null,
+        "tags": ["Books"]
+    },
+    {
+        "name": "Emotional Design: Why We Love (or Hate) Everyday Things by Donald Norman",
+        "urls": null,
+        "tags": ["Books", "Design"]
+    },
+    {
+        "name": "The Mythical Man-Month by Frederick P. Brooks Jr.",
+        "urls": null,
+        "tags": ["Books"]
+    },
+    {
+        "name": "Big ball of mud",
+        "urls": ["http://laputan.org/mud"],
+        "tags": ["Essays", "Software"]
+    },
+    {
+        "name": "Coding Horror",
+        "urls": ["https://blog.codinghorror.com"],
+        "tags": ["Blogs", "Software"]
+    },
+    {
+        "name": "Joel on Software",
+        "urls": ["https://www.joelonsoftware.com"],
+        "tags": ["Blogs", "Software"]
+    },
+    {
+        "name": "Krebs on Security",
+        "urls": ["https://krebsonsecurity.com"],
+        "tags": ["Blogs", "Security"]
+    },
+    {
+        "name": "Acronyms, initialisms",
+        "urls": ["https://en.wikipedia.org/wiki/List_of_information_technology_acronyms"],
+        "tags": ["System Administration"]
+    },
+    {
+        "name": "cp-lockdown",
+        "urls": ["https://netwayfind.github.io/cp-lockdown"],
+        "tags": ["System Administration"]
+    },
+    {
+        "name": "Stack Exchange Network",
+        "urls": ["https://stackexchange.com/sites"],
+        "tags": ["Stack Exchange Network"]
+    },
+    {
+        "name": "Software design patterns",
+        "urls": ["https://en.wikipedia.org/wiki/Software_design_pattern"],
+        "tags": ["Concepts", "Software"]
+    },
+    {
+        "name": "git flow",
+        "urls": ["https://nvie.com/posts/a-successful-git-branching-model"],
+        "tags": ["Concepts", "git"]
+    },
+    {
+        "name": "Principle of least astonishment",
+        "urls": ["https://en.wikipedia.org/wiki/Principle_of_least_astonishment"],
+        "tags": ["Concepts", "Design"]
+    },
+    {
+        "name": "Kerckhoff's Principle",
+        "urls": ["https://en.wikipedia.org/wiki/Kerckhoffs%27s_principle"],
+        "tags": ["Concepts", "Security"]
+    },
+    {
+        "name": "TOCTOU",
+        "urls": ["https://en.wikipedia.org/wiki/Time_of_check_to_time_of_use"],
+        "tags": ["Concepts"]
+    },
+    {
+        "name": "API design",
+        "urls": [
+            "https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design",
+            "https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design",
+            "https://swagger.io/blog/api-design/api-design-best-practices"
+        ],
+        "tags": ["Concepts", "Design"]
+    },
+    {
+        "name": "curl",
+        "urls": ["https://curl.haxx.se/docs/manual.html"],
+        "tags": ["Tools"]
+    },
+    {
+        "name": "maven",
+        "urls": [
+            "https://maven.apache.org/guides",
+            "https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html"
+        ],
+        "tags": ["Tools"]
+    },
+    {
+        "name": "vi/vim",
+        "urls": ["https://www.openvim.com/tutorial.html"],
+        "tags": ["Tools"]
+    },
+    {
+        "name": "git",
+        "urls": [
+            "https://try.github.io",
+            "https://git-scm.com/book/en/v2",
+            "https://help.github.com/en/github/using-git/configuring-git-to-handle-line-endings"
+        ],
+        "tags": ["Tools", "git"]
+    },
+    {
+        "name": "OWASP Top 10",
+        "urls": ["https://owasp.org/www-project-top-ten"],
+        "tags": ["Security"]
+    },
+    {
+        "name": "EFF Threat Modeling",
+        "urls": ["https://www.eff.org/event/threat-modeling"],
+        "tags": ["Security"]
+    },
+    {
+        "name": "Hacker High School",
+        "urls": ["https://hackerhighschool.org"],
+        "tags": ["Security"]
+    },
+    {
+        "name": "OSI model",
+        "urls": ["https://en.wikipedia.org/wiki/OSI_model"],
+        "tags": ["Networking"]
+    },
+    {
+        "name": "People don't need those stupid packets anyway",
+        "urls": ["https://www.reddit.com/r/networking/comments/1n27uw/what_is_your_favorite_way_of_remembering_the_7"],
+        "tags": ["Networking"]
+    },
+    {
+        "name": "TCP/IP model",
+        "urls": ["https://en.wikipedia.org/wiki/Internet_Protocol_Suite"],
+        "tags": ["Networking"]
+    },
+    {
+        "name": "TCP, UDP ports",
+        "urls": ["https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers"],
+        "tags": ["Networking"]
+    },
+    {
+        "name": "TLS",
+        "urls": ["https://en.wikipedia.org/wiki/Transport_Layer_Security"],
+        "tags": ["Networking"]
+    },
+    {
+        "name": "HTTP",
+        "urls": ["https://developer.mozilla.org/en-US/docs/Web/HTTP"],
+        "tags": ["Networking"]
+    },
+    {
+        "name": "Let's Encrypt",
+        "urls": ["https://letsencrypt.org/docs"],
+        "tags": ["Networking"]
+    },
+    {
+        "name": "Devhints",
+        "urls": ["https://devhints.io"],
+        "tags": ["Software"]
+    },
+    {
+        "name": "Spring Boot",
+        "urls": [
+            "https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle",
+            "https://spring.io/guides",
+            "https://www.baeldung.com/spring-boot"
+        ],
+        "tags": ["Software", "Spring"]
+    },
+    {
+        "name": "JPA",
+        "urls": ["https://docs.spring.io/spring-data/jpa/docs/current/reference/html"],
+        "tags": ["Software", "Spring"]
+    },
+    {
+        "name": "Vue.js",
+        "urls": ["https://vuejs.org/v2/guide"],
+        "tags": ["Software"]
+    },
+    {
+        "name": "Quasar Framework",
+        "urls": [
+            "https://quasar.dev/",
+            "https://quasar.dev/vue-components"
+        ],
+        "tags": ["Software"]
+    }
+]
