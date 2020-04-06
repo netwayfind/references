@@ -1,7 +1,10 @@
 [
     {
         "name": "references",
-        "urls": ["https://github.com/netwayfind/references"],
+        "urls": [
+            "https://netwayfind.github.io/references",
+            "https://github.com/netwayfind/references"
+        ],
         "tags": ["Software", "Security"]
     },
     {
