@@ -199,5 +199,15 @@
             "https://quasar.dev/vue-components"
         ],
         "tags": ["Software"]
+    },
+    {
+        "name": "Zero-Bug Software Development",
+        "urls": ["https://medium.com/qualityfaster/the-zero-bug-policy-b0bd987be684"],
+        "tags": ["Essays", "Software"]
+    },
+    {
+        "name": "Building the Same Component in Vue2 vs Vue3",
+        "urls": ["https://learnvue.co/2020/02/building-the-same-component-in-vue2-vs-vue3/"],
+        "tags": ["Software"]
     }
 ]
